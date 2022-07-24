@@ -9,7 +9,7 @@
 ### Table of Contents
 
 
-- [HTML(#html)
+- [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [Python](#python)
